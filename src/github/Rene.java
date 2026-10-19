@@ -45,7 +45,7 @@ public class Rene {
 		frmHolaGit.setLocationRelativeTo(null);
 		frmHolaGit.getContentPane().setLayout(null);
 		
-		JLabel lblNewLabel = new JLabel("HOLA GITHUB CON GIT");
+		JLabel lblNewLabel = new JLabel("RENE DOMINGUEZ ESCALONA");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel.setFont(new Font("Tahoma", Font.BOLD, 26));
 		lblNewLabel.setBounds(10, 79, 396, 78);
